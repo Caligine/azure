@@ -1,0 +1,4 @@
+azure
+=====
+
+Small blog script
